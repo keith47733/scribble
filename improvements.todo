@@ -1,0 +1,7 @@
+Change FutureBuilder to StreamBuilder (instead of setstate)
+Use state management for page routing
+Pass note ID and fetch from server when needed, instead of passing note snapshot
+Error handling on auth and fetchNotesByDate
+Confirm dialog for delete note
+Form validation
+Implement edit note...

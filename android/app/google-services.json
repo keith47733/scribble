@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "204962455573",
+    "project_id": "scribble-1f8ca",
+    "storage_bucket": "scribble-1f8ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204962455573:android:e14d68db57da148226ae1c",
+        "android_client_info": {
+          "package_name": "com.example.scribble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204962455573-3l7pnvk7i1rmi8gujiorai5j700q8s7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scribble",
+            "certificate_hash": "601e797b4573b9606156a36855a7acf0616bdd7e"
+          }
+        },
+        {
+          "client_id": "204962455573-0pbcpnsrc6stg9l314ggndsnpc0abcmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Hhq0ayN0z5Gtjt-qZBIQp4522N_IBW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204962455573-0pbcpnsrc6stg9l314ggndsnpc0abcmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
